@@ -16,7 +16,7 @@ git clone https://github.com/alizeayn/titanic-dashboard.git
 cd titanic-dashboard
 text2. Install dependencies:
 pip install -r requirements.txt
-text3. Add the Titanic dataset (`Titanic-Dataset.csv` or `train.csv` from Kaggle) to the `data/` folder.
+text3. Add the Titanic dataset (`Titanic-Dataset.csv` from Kaggle) to the `data/` folder.
 4. Run the app:
 streamlit run app.py
 textVisit http://localhost:8501.
@@ -40,4 +40,4 @@ textVisit http://localhost:8501.
 MIT License.
 
 ---
-Built by Alize Ayn | [GitHub](https://github.com/alizeayn)
+Built by ALi Zeynali | [GitHub](https://github.com/alizeayn)
